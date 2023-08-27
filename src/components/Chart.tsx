@@ -44,7 +44,7 @@ const Chart = ({ electricityPrices }: { electricityPrices: ElectricityPriceDto[]
                     <defs>
                         <linearGradient id="color" x1="0" y1="0" x2="0" y2="1">
                             <stop offset="0%" stopColor="#21D375" stopOpacity={1}></stop>
-                            <stop offset="75%" stopColor="#21D375" stopOpacity={0.1}></stop>
+                            <stop offset="90%" stopColor="#21D375" stopOpacity={0.1}></stop>
                         </linearGradient>
                     </defs>
 
