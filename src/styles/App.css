@@ -1,0 +1,48 @@
+.app-background {
+    background-color: #f1f1f1;
+    height: 100vh;
+    width: 100%;
+}
+
+.chart-card {
+    padding-left: 15px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.small-card {
+    height: 120px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.chart-card-title {
+    margin-left: 10px;
+    padding-bottom: 30px;
+    margin-top: 8px;
+}
+
+.small-card-title {
+    font-weight: 350;
+    color: #474747;
+    font-size: 14px;
+    margin-left: 15px;
+    padding-top: 15px;
+}
+
+.small-card-icon {
+    margin-left: auto;
+    margin-right: 35px;
+    margin-top: 12px;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
